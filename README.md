@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Carlbronge
 - 👀 I’m interested in all things sports related
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on anything data
+- 💞️ I’m looking to collaborate on anything data related
 - 📫 How to reach me cbronge2022@fau.edu or 6307462897
 
 <!---
